@@ -1,0 +1,11 @@
+{
+  "name": "gs",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "yes",
+  "scripts": {
+    "test": "yes"
+  },
+  "author": "",
+  "license": "ISC"
+}
